@@ -1,1 +1,1 @@
-<p aling="left">Examples: <br><img src="пример1.jpg" width="300"> <img src="пример2.jpg" width="320" height="190"></p>
+<p aling="left">Examples: </p><br><img src="пример1.jpg" width="350"> <img src="пример2.jpg" width="350" height="190">
